@@ -26,11 +26,11 @@ You are required to model the demand for shared bikes with the available indepen
 ## Conclusions
 As per our final Model, the top 6 predictor variables that influences the bike booking are:
 * Temperature - A coefficient value of 0.544334 indicate that a unit increase in temp variable increase the bike hire number by 0.544334
-* Light_snowrain - A coefficient value of -0.238456 indicate that a unit increase in temp variable decreases the bike hire number by 0.238456
-* Year - A coefficient value of 0.229886 indicate that a unit increase in temp variable increase the bike hire number by 0.229886
-* Windspeed - A coefficient value of -0.192512 indicate that a unit increase in temp variable decreases the bike hire number by 0.192512
-* Humidity - A coefficient value of -0.169352 indicate that a unit increase in temp variable decreases the bike hire number by 0.169352
-* Winter - A coefficient value of 0.128776 indicate that a unit increase in temp variable increase the bike hire number by 0.128776
+* Light_snowrain - A coefficient value of -0.238456 indicate that a unit increase in Light_snowrain variable decreases the bike hire number by 0.238456
+* Year - A coefficient value of 0.229886 indicate that a unit increase in year variable increase the bike hire number by 0.229886
+* Windspeed - A coefficient value of -0.192512 indicate that a unit increase in windspeed variable decreases the bike hire number by 0.192512
+* Humidity - A coefficient value of -0.169352 indicate that a unit increase in humidity variable decreases the bike hire number by 0.169352
+* Winter - A coefficient value of 0.128776 indicate that a unit increase in winter variable increase the bike hire number by 0.128776
 
 
 
